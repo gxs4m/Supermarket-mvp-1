@@ -1,12 +1,120 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|c:\\users\\samgi\\source\\repos\\supermarket-mvp-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|c:\\users\\samgi\\source\\repos\\supermarket-mvp-1\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|c:\\users\\samgi\\source\\repos\\supermarket-mvp-1\\views\\paymodeview.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|solutionrelative:views\\paymodeview.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|c:\\users\\samgi\\source\\repos\\supermarket-mvp-1\\models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|solutionrelative:models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|c:\\users\\samgi\\source\\repos\\supermarket-mvp-1\\views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|solutionrelative:views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|c:\\users\\samgi\\source\\repos\\supermarket-mvp-1\\models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9A1404-19E1-4C56-BB56-D7C93616E749}|Supermarket-mvp-1.csproj|solutionrelative:models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayModeView.resx",
+              "DocumentMoniker": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Views\\PayModeView.resx",
+              "RelativeDocumentMoniker": "Views\\PayModeView.resx",
+              "ToolTip": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Views\\PayModeView.resx",
+              "RelativeToolTip": "Views\\PayModeView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-11T04:39:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:38:34.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayModeView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Views\\PayModeView.cs",
+              "RelativeDocumentMoniker": "Views\\PayModeView.cs",
+              "ToolTip": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Views\\PayModeView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\PayModeView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:55:09.575Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPayModeView.cs",
+              "DocumentMoniker": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Views\\IPayModeView.cs",
+              "RelativeDocumentMoniker": "Views\\IPayModeView.cs",
+              "ToolTip": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Views\\IPayModeView.cs",
+              "RelativeToolTip": "Views\\IPayModeView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:51:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPayModeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Models\\IPayModeRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IPayModeRepository.cs",
+              "ToolTip": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Models\\IPayModeRepository.cs",
+              "RelativeToolTip": "Models\\IPayModeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:48:50.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayModeModel.cs",
+              "DocumentMoniker": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Models\\PayModeModel.cs",
+              "RelativeDocumentMoniker": "Models\\PayModeModel.cs",
+              "ToolTip": "C:\\Users\\samgi\\source\\repos\\Supermarket-mvp-1\\Models\\PayModeModel.cs",
+              "RelativeToolTip": "Models\\PayModeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:31:02.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
