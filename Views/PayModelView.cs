@@ -23,10 +23,12 @@ namespace Supermarket_mvp_1.Views
             AssociateAndRiaseViewEvents();
 
             tabControl1.TabPages.Remove(tabPagePayModeDetail);
+            BtnClose.Click += delegate { Close(); };    
         }
 
         private void AssociateAndRiaseViewEvents()
         {
+            //throw new NotImplementedException();
             BtnSearch.Click += delegate { SearchEvent?.Invoke(this, EventArgs.Empty); };
 
             TxtSearch.KeyDown += (s, e) =>
@@ -38,26 +40,11 @@ namespace Supermarket_mvp_1.Views
             };
         }
 
-        public string PayModeId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string PayModeName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string PayModeObservation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string SearchValue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public bool IsEdit { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public bool IsSuccessful { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Message { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        
 
-        public event EventHandler SearchEvent;
-        public event EventHandler AddNewEvent;
-        public event EventHandler EditEvent;
-        public event EventHandler DeleteEvent;
-        public event EventHandler SaveEvent;
-        public event EventHandler CancelEvent;
+        
 
-        public void SetPayModeListBindingSource(BindingSource payModeList)
-        {
-            
-            DgPayMode.DataSource = payModeList;
-        }
+       
 
         public string PayModeId
         {
@@ -95,8 +82,17 @@ namespace Supermarket_mvp_1.Views
             get { return message; }
             set { message = value; }
         }
-
-
-
+       
+        public event EventHandler SearchEvent;
+        public event EventHandler AddNewEvent;
+        public event EventHandler EditEvent;
+        public event EventHandler DeleteEvent;
+        public event EventHandler SaveEvent;
+        public event EventHandler CancelEvent;
+        public void SetPayModeListBindingSource(BindingSource payModeList)
+        {
+            //throw new NotImplementedException();
+            DgPayMode.DataSource = payModeList;
+        }
     }
 }
