@@ -8,7 +8,7 @@ using System.ComponentModel;
 
 namespace Supermarket_mvp_1.Models
 {
-    class PayModeModel
+    internal class PayModeModel
     {
         [DisplayName("Pay Mode Id")]
         public int Id { get; set; }

@@ -234,7 +234,6 @@
             TxtPayModeObservation.PlaceholderText = "Pay Mode Observation";
             TxtPayModeObservation.Size = new Size(354, 77);
             TxtPayModeObservation.TabIndex = 5;
-            TxtPayModeObservation.TextChanged += textBox3_TextChanged;
             // 
             // TxtPayModeName
             // 
